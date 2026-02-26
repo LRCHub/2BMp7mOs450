@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Here",
+  "base_artist": "JUNNA",
+  "createdAt": "2026-02-26T10:01:23.366378Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Here With Me",
+      "artist": "Marshmello feat. CHVRCHES",
+      "has_synced": true,
+      "path": "select/01_Here_With_Me_Marshmello_feat._CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Here With Me",
+      "artist": "Marshmello, CHVRCHES",
+      "has_synced": true,
+      "path": "select/02_Here_With_Me_Marshmello,_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(If You're Not In It For Love) I'm Outta Here!",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/03_(If_You're_Not_In_It_For_Love)_I'm_Outta_Here!_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(If You're Not In It For Love) I'm Outta Here!",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/04_(If_You're_Not_In_It_For_Love)_I'm_Outta_Here!_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(If You're Not In It For Love) I'm Outta Here! - Live",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/05_(If_You're_Not_In_It_For_Love)_I'm_Outta_Here!_-_Live_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Lying Here With) Linda on My Mind - Rerecorded Version",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/06_(Lying_Here_With)_Linda_on_My_Mind_-_Rerecorded_Version_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "(Lying Here With) Linda on My Mind (Re-Recorded Version)",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/07_(Lying_Here_With)_Linda_on_My_Mind_(Re-Recorded_Version)_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Anywhere but Here",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/08_Anywhere_but_Here_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boys 'Round Here",
+      "artist": "Blake Shelton feat. Pistol Annies & Friends",
+      "has_synced": true,
+      "path": "select/09_Boys_'Round_Here_Blake_Shelton_feat._Pistol_Annies_&_Friends.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/10_Boys_'Round_Here_(feat._Pistol_Annies_&_Friends)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Came Here to Drink",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/11_Came_Here_to_Drink_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "From Here to Eternity",
+      "artist": "Michael Peterson",
+      "has_synced": true,
+      "path": "select/12_From_Here_to_Eternity_Michael_Peterson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "From Here to Eternity (Album Version)",
+      "artist": "MICHAEL PETERSON",
+      "has_synced": true,
+      "path": "select/13_From_Here_to_Eternity_(Album_Version)_MICHAEL_PETERSON.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hard Out Here For A Country Boy - + FUZZ",
+      "artist": "The Cadillac Three",
+      "has_synced": false,
+      "path": "select/14_Hard_Out_Here_For_A_Country_Boy_-_+_FUZZ_The_Cadillac_Three.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hard Out Here For A Country Boy",
+      "artist": "The Cadillac Three",
+      "has_synced": false,
+      "path": "select/15_Hard_Out_Here_For_A_Country_Boy_The_Cadillac_Three.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hate It Here",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/16_Hate_It_Here_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Here",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/17_Here_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Here (Album Version)",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/18_Here_(Album_Version)_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Here and Now",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/19_Here_and_Now_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Here",
+      "artist": "JUNNA",
+      "has_synced": false,
+      "path": "select/pl_01_Here_JUNNA.txt"
+    }
+  ]
+}
